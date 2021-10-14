@@ -11,8 +11,10 @@ app = Flask(__name__)
 
 # Web Scraping Pkg
 from bs4 import BeautifulSoup
-# from urllib.request import urlopen
-from urllib import urlopen
+try:
+    from urllib.request import urlopen
+except ImportError:
+    from urllib2 import urlopen
 
 # Sumy Pkg
 from sumy.parsers.plaintext import PlaintextParser
