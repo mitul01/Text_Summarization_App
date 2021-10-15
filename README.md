@@ -12,13 +12,13 @@
 Link: [https://textsummarizationapp.herokuapp.com/](https://textsummarizationapp.herokuapp.com/)
 
 <p align="center">
- <img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/home.jpg" width="800" height="400"/>
+ <img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/home.JPG" width="800" height="400"/>
  <br>
 <br>
-<img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/input.jpg" width="800" height="400"/>
+<img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/input.JPG" width="800" height="400"/>
 <br>
 <br>
-<img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/output.jpg" width="800" height="400"/>
+<img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/output.JPG" width="800" height="400"/>
  </p>
 
 ## Overview
