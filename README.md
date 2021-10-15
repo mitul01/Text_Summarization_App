@@ -6,7 +6,7 @@
   * [Installation](#installation)
   * [Flowchart of Methodology](#Flowchart-of-Methodology)
   * [Technologies Used](#Technologies-Used)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Bug / Feature Request](#Bug-/-Feature-Request)
 
 
 ## Demo
@@ -23,7 +23,7 @@ Link: [https://textsummarizationapp.herokuapp.com/](https://textsummarizationapp
  </p>
 
 ## Overview
-This is a Flask based NLP web app which can summarize a text using SpaCy,Gensim,NLTK and Sumy.
+This is a Flask based NLP web app which can summarize text using SpaCy,Gensim,NLTK and Sumy.
 
 ## Installation
 The Code is written in Python 3.6.13. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://github.com/mitul01/Text_Summarization_App) the repository:
