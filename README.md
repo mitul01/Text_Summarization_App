@@ -39,7 +39,8 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://ibb.co/MSHyCTW" width=200>](https://spacy.io/)[<img target="_blank" src="https://ibb.co/gZsJbzf" width=170>](https://www.nltk.org/) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://ibb.co/MSHyCTW" width=200>](https://spacy.io/)[<img target="_blank" src="https://i.ibb.co/gZsJbzf/nltk.png" width=170>](https://www.nltk.org/) 
+
 
 
 ## Bug / Feature Request
