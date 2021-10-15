@@ -1,4 +1,4 @@
-# Text Summarization App: 
+# Text Summarization App
 
 ## Table of Content
   * [Demo](#demo)
