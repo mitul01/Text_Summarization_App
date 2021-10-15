@@ -4,19 +4,21 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [Installation](#installation)
-  * [Technologies Used](#Technologies Used)
+  * [Technologies Used](#Technologies-Used)
   * [Bug / Feature Request](#bug---feature-request)
-  * [Future scope of project](#future-scope)
 
 
 ## Demo
 Link: [https://textsummarizationapp.herokuapp.com/](https://textsummarizationapp.herokuapp.com/)
 
 <p align="center">
-<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/input.jpg" width="800" height="400"/>
+ <img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/home.jpg" width="800" height="400"/>
+ <br>
+<br>
+<img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/input.jpg" width="800" height="400"/>
 <br>
 <br>
-<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/output.jpg" width="800" height="400"/>
+<img src="https://github.com/mitul01/Text_Summarization_App/tree/main/static/output.jpg" width="800" height="400"/>
  </p>
 
 ## Overview
@@ -27,6 +29,11 @@ The Code is written in Python 3.6.13. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
+## Flowchart of Methodology
+<p align="center">
+<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="800" height="400"/>
+ </p>
+
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
@@ -36,10 +43,4 @@ pip install -r requirements.txt
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
-
-## Future Scope
-
-* Use multiple Algorithms
-* Optimize Flask app.py
-* Front-End 
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/mitul01/Text_Summarization_App/issues) here by including your search query and the expected result
